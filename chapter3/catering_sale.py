@@ -9,6 +9,6 @@ def showDescribe(fileName, index):
 
 
 if __name__ == "__main__":
-    catering_sale = '../data/catering_sale.xls'
+    catering_sale = './data/catering_sale.xls'
     showDescribe(catering_sale, u'日期')
     pass
