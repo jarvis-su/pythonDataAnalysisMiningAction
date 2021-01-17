@@ -95,7 +95,7 @@ def programmer_4(file_name):
 
 if __name__ == "__main__":
     path = os.getcwd()
-    # programmer_1(path + '/data/catering_sale.xls')
+    programmer_1(path + '/data/catering_sale.xls')
     # programmer_2(path + '/data/catering_sale.xls')
     # programmer_3(path + '/data/catering_dish_profit.xls')
     # programmer_4(path + '/data/catering_sale_all.xls')
